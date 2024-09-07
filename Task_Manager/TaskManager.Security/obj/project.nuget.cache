@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZWKojtnS3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hakan\\Desktop\\TaskManager.Security\\TaskManager.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.2\\microsoft.identitymodel.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.2\\microsoft.identitymodel.jsonwebtokens.8.0.2.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.2\\microsoft.identitymodel.logging.8.0.2.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.2\\microsoft.identitymodel.tokens.8.0.2.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.2\\system.identitymodel.tokens.jwt.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
